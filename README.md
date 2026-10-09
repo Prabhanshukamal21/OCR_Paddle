@@ -1,4 +1,4 @@
-# OCR + Semantic Search with ChromaDB
+# OCR
 
 A modular Streamlit app that:
 1. Accepts an image.
